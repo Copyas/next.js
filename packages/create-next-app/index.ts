@@ -21,7 +21,7 @@ const program = new Commander.Command(packageJson.name)
     projectPath = name
   })
   .option(
-    '--ts, --typescript',
+    '--ts, --typescriptqw,
     `
 
   Initialize as a TypeScript project. (default)
